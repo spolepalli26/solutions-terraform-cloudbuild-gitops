@@ -1,11 +1,10 @@
 steps:
--id: 'branch name'
- name: 'alpine'
- args"
-   - '-c'
-   - |
-     echo "*************************************"
-     echo "$BRANCH_NAME"
-     echo "*************************************"
- id: branch name     
- entrypointm : 'sh'
+ - name: 'alpine'
+   args"
+     - '-c'
+     - |
+       echo "*************************************"
+       echo "$BRANCH_NAME"
+       echo "*************************************"
+   id: branch name     
+   entrypointm : 'sh'
