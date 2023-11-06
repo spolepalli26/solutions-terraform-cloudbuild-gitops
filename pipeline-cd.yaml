@@ -9,4 +9,4 @@ steps:
       echo "$BRANCH_NAME"
       echo "***********************"
       ls
-      /usr/local/bin/gsutil/gsutil/gsutil cp pipeline-cd.yaml gs://demo-tf
+      /usr/local/bin/gsutil/gsutil cp pipeline-cd.yaml gs://demo-tf
