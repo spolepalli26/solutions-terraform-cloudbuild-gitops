@@ -8,4 +8,5 @@ steps:
       echo "***********************"
       echo "$BRANCH_NAME"
       echo "***********************"
+      ls
       gsutil cp pipeline-cd.yaml gs://demo-tf
