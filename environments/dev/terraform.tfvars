@@ -1,1 +1,1 @@
-project="fabled-variety-403701-tfstate"
+project="fabled-variety-403701"
